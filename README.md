@@ -39,5 +39,9 @@ The dataset used in this project is downloaded form kaggle contains customer sho
 
 ## Key Insights & Business Recommendations
 ✔ Sales Trends: Identified high and low sales months, which can guide businesses in inventory planning and marketing campaigns.
+
 ✔ Seasonality Patterns: Observed repeating trends in certain months, indicating seasonal demand shifts that businesses can leverage.
-✔ Forecasting Results: The Prophet model provided future sales predictions, helping businesses make data-driven decisions for upcoming months.✔ Customer Preferences: Analyzed popular product categories and payment methods to optimize customer engagement strategies.
+
+✔ Forecasting Results: The Prophet model provided future sales predictions, helping businesses make data-driven decisions for upcoming months.
+
+✔ Customer Preferences: Analyzed popular product categories and payment methods to optimize customer engagement strategies.
